@@ -1,0 +1,263 @@
+body{
+  font:20px/1.1em helvetica-light, sans-serif;
+  color: white;
+  background-color: black;
+  min-height: 100vh;
+}
+
+.no-scroll {
+	overflow-y: hidden;
+	max-height: 100vh;
+}
+
+h2 {
+	text-transform: uppercase;
+	background-color: black;
+	margin-bottom: 0!important;	
+}
+
+a{
+color:white!important;
+text-decoration: none!important;
+text-transform: uppercase;
+cursor: pointer;
+}
+
+/*DEBUT DU HEADER*/
+header{
+width: 100vw;
+height: 10vh;
+position: sticky;
+background-color: black;
+}
+
+nav {
+	--bs-gutter-x : 0!important;
+}
+
+.logo {
+	width: 56px;
+   height: 26px;
+   left: 0;
+}
+
+span { 
+
+}
+
+
+.link-contact {
+	text-transform: none;
+}
+
+/*#ntlogo{
+width: 70px;
+height: 35px;
+position: fixed;
+background-color: red;
+margin-left: 2.4vw;
+margin-top: 4vh;
+}*/
+
+#graphicdesign{
+font-size: 12px;
+}
+
+#video{
+font-size: 12px;
+}
+
+#about{
+font-size: 12px;
+}
+/*FIN DU HEADER*/
+
+
+/*DEBUT DU CONTACT*/
+.contact{
+width: 100vw;
+height: 20vh;
+position: relative;
+background-color: black;
+padding-left: 0!important;
+}
+
+.container-contact {
+margin-left: 0!important;
+}
+
+
+#mail{
+font-size: 12px;
+}
+
+#insta{
+font-size: 12px;
+}
+
+#numb{
+font-size: 12px;
+}
+/*FIN DU CONTACT*/
+
+#textabout{
+font-size: 25px;
+text-transform: uppercase;
+line-height:4vh;
+background-color: black;
+min-height: 70vh;
+}
+
+.presentation {
+	position : relative;
+	bottom: 0;
+	line-height: 1.2;
+	font-weight: 500;
+
+}
+
+/*>>>>>>>PAGE VIDEO<<<<<<<*/
+
+/*DEBUT DE TITRE PROJET*/
+.titreprojet{
+width: 12vw;
+height: 10vh;
+position: sticky;
+background-color: green;
+}
+
+#quinzek{
+font-size: 25px;
+font-weight: bold;
+text-transform: uppercase;
+line-height:4vh;
+}
+/*FIN DE TITRE PROJET*/
+
+/*DEBUT DE SWITCH*/
+.switch{
+width: 12vw;
+height: 10vh;
+position: sticky;
+background-color: grey;
+}
+
+#numbers{
+font-size: 25px;
+font-weight: bold;
+text-transform: uppercase;
+line-height:4vh;
+}
+/*FIN DE SWITCH*/
+
+.infos{
+width: 100vw;
+height: 20vh;
+position: relative;
+background-color: green;
+}
+
+
+/*PAGE VIDEO */
+
+section {
+	min-height: 90vh;
+	background-color: black;
+}
+
+.footer-video {
+	background-color: black;
+	min-height: 20vh;
+	min-width: 100vw;
+}
+
+.right-arrow {
+	height: 25px;
+	width: 25px;
+
+}
+
+.YoutubeVideo {
+	min-height: 100vh;
+}
+
+.containerVideoYoutube {
+	overflow: scroll;
+	height: 90vh;
+	width: 90vw;
+}
+
+.img-lotus {
+	height: auto;
+	width: 96.5%;
+}
+
+.main-container {
+	max-height: 90vh;
+}
+
+.copyright {
+	bottom: 3%;
+}
+
+.img-cover {
+	height: auto;
+	width: 58%;
+}
+
+.img-design {
+	height: auto;
+	width: 80%;
+}
+
+.img-typedesign {
+	height: auto;
+	width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
